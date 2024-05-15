@@ -15,3 +15,14 @@
 .content {
   border: 1px solid white;
 }
+
+li {
+  cursor: pointer;
+}
+
+li:hover {
+  background-color: #f8f9fa;
+  color: black;
+  border-radius: 12px;
+  transition: all 0.3s ease;
+}
